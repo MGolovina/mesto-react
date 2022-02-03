@@ -43,4 +43,6 @@
 @import url(./blocks/elements/__like-group/elements__like-group.css);
 @import url(./blocks/popup/__fieldset/popup__fieldset.css);
 @import url(./blocks/popup/__form-size-m/popup__form-size-m.css);
-@import url(./blocks/popup/__button-size-m/popup__button-size-m.css)
+@import url(./blocks/popup/__button-size-m/popup__button-size-m.css);
+@import url(./blocks/elements/__card-button/_trash/_hidden/elements__card-button_trash_hidden.css);
+@import url(./blocks/elements/__card-button/_trash/_visible/elements__card-button_trash_visible.css);
